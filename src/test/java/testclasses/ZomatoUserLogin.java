@@ -22,7 +22,9 @@ import pomclasses.LoginPage;
 public class ZomatoUserLogin {
 	
 	static WebDriver driver;
+	
 	static ExtentHtmlReporter extentReporter;
+	
 	static ExtentReports report;
 	static ExtentTest test;
 	LoginPage lp;
